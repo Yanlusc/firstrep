@@ -14,3 +14,12 @@
 True
 False
 
+x = [x for x in range(8)]
+print(x)
+
+y = []
+for i in range(8):
+    y.append(i)
+
+print(y)
+print(y[7])
