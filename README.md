@@ -1,6 +1,5 @@
-Hello world !!!!
-h
 
+# Basics to know
 - [x] data types
 - [ ] output & printing
 - [x] variables
@@ -16,3 +15,11 @@ h
 - [ ] Set
 - [ ] Dicts
 - [ ] Comprehensions
+- [ ] Functions
+- [ ] *args & **kwargs
+- [ ] Scope & Global
+- [ ] Exception
+- [ ] Handling Exceptions
+- [ ] Lamda
+- [ ] Map and Filter
+- [ ] Function Strings
