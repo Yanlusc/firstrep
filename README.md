@@ -6,16 +6,16 @@
 - [ ] user inputs
 - [x] Arithmetic operator (+, -, /, //, %)
 - [ ] String
-    - [ ] Basic operations
-        - [ ] Concatenation `+`
-        - [ ] Repetion `*`
-        - [ ] Slicing `[]`
-        - [ ] Range Slicing `[x,y]`
-        - [ ] Membership `in`
-        - [ ] Memvership `not in`
-        - [ ] Iterating `for`
-        - [ ] Raw string `r/R`
-    - [ ] Built-in functions
+    - [x] Basic operations
+        - [x] Concatenation `+`
+        - [x] Repetion `*`
+        - [x] Slicing `[]`
+        - [x] Range Slicing `[x:y]`
+        - [x] Membership `in`
+        - [x] Memvership `not in`
+        - [x] Iterating `for`
+        - [x] Raw string `r/R`
+    - [ ] Built-in-functions
         - [ ] capitalize()
         - [ ] lower()
         - [ ] upper()
@@ -35,7 +35,7 @@
                 - [ ] lstrip()
                 - [ ] rstrip()
                 - [ ] rindex()
-                - [ ] lens()
+                - [ ] __len__()
     - [ ] Escape caracters
         - [ ] \n	ASCII linefeed (LF)
         - [ ] \r	Carriage Return (CR)
