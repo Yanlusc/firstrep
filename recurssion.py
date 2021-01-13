@@ -8,4 +8,4 @@ def rec(n):
     return result
 
 
-print(rec(n))<
+print(rec(n))
