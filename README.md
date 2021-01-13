@@ -5,15 +5,68 @@
 - [x] variables
 - [ ] user inputs
 - [x] Arithmetic operator (+, -, /, //, %)
+- [ ] String
+    - [ ] Basic operations
+        - [ ] Concatenation `+`
+        - [ ] Repetion `*`
+        - [ ] Slicing `[]`
+        - [ ] Range Slicing `[x,y]`
+        - [ ] Membership `in`
+        - [ ] Memvership `not in`
+        - [ ] Iterating `for`
+        - [ ] Raw string `r/R`
+    - [ ] Built-in functions
+        - [ ] capitalize()
+        - [ ] lower()
+        - [ ] upper()
+        - [ ] swapcase()
+        - [ ] title()
+        - [ ] * count()
+        - [ ] Search fuctions
+            - [ ] find()
+            - [ ] index()
+            - [ ] rfind()
+        - [ ] Substring functions
+            - [ ] replace()
+            - [ ] split()
+            - [ ] splitlines()
+            - [ ] join()
+            - [ ] pratical
+                - [ ] lstrip()
+                - [ ] rstrip()
+                - [ ] rindex()
+                - [ ] lens()
+    - [ ] Escape caracters
+        - [ ] \n	ASCII linefeed (LF)
+        - [ ] \r	Carriage Return (CR)
+        - [ ] \t	Horizontal Tab (TAB)
+        - [ ] \\	Backslash (\)
+    - [ ] Format Sybols
+        - [ ] %c	character
+        - [x] %s	string conversion via str() before formatting
+        - [ ] %i	signed decimal integer
+        - [x] %d	signed decimal integer
+        - [ ] %u	unsigned decimal integer
+        - [ ] %o	octal integer
+        - [x] %x	hexadecimal integer (lowercase letters)
+        - [ ] %X	hexadecimal integer (UPPER-case letters)
+        - [ ] %e	exponential notation (with lowercase ‘e’)
+        - [ ] %E	exponential notation (with UPPER-case ‘E’)
+        - [x] %f	floating-point real number
+        - [ ] %g	the shorter of %f and %e
+        - [ ] %G	the shorter of %f and %E
 - [ ] Conditional operators
     - [ ] Chained conditional
 - [ ] If/Else/Elif
-- [ ] List/Turples
+- [ ] Lists/Turples
 - [ ] For loops
 - [ ] While
+- [ ] break
+- [ ] continue
+- [ ] For Else
 - [ ] Slice operator
-- [ ] Set
-- [ ] Dicts
+- [ ] Sets
+- [ ] Dictionaries
 - [ ] Comprehensions
 - [ ] Functions
 - [ ] *args & **kwargs
@@ -22,4 +75,17 @@
 - [ ] Handling Exceptions
 - [ ] Lamda
 - [ ] Map and Filter
-- [ ] Function Strings
+- [ ] Numbers
+    - [ ] int, float, complex (`j` ir `J`)
+    - [ ] pratical fuctions
+        - type()
+        - isinstance()
+        - [ ] divmod()
+        - [ ] int()
+        - [ ] float()
+        - [ ] complex()
+        - [ ] external classes to handle python numbers `1.1 + 3.2`
+            - import decimal
+            - import fraction
+        
+- [ ] Bytes
