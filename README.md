@@ -1,7 +1,7 @@
 
 # Basics to know
 - [x] data types
-- [ ] output & printing
+- [x] output & printing
 - [x] variables
 - [ ] user inputs
 - [x] Arithmetic operator (+, -, /, //, %)
