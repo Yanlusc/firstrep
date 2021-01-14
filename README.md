@@ -15,12 +15,12 @@
         - [x] Memvership `not in`
         - [x] Iterating `for`
         - [x] Raw string `r/R`
-    - [ ] Built-in-functions
-        - [ ] capitalize()
-        - [ ] lower()
-        - [ ] upper()
+    - [ ] Built-in-functions                 # 'bryan'.capitalize()
+        - [x] capitalize()
+        - [x] lower()
+        - [x] upper()
         - [ ] swapcase()
-        - [ ] title()
+        - [x] title()
         - [ ] * count()
         - [ ] Search fuctions
             - [ ] find()
@@ -35,12 +35,12 @@
                 - [ ] lstrip()
                 - [ ] rstrip()
                 - [ ] rindex()
-                - [ ] __len__()
+                - [x] __len__()
     - [ ] Escape caracters
-        - [ ] \n	ASCII linefeed (LF)
+        - [x] \n	ASCII linefeed (LF)
         - [ ] \r	Carriage Return (CR)
         - [ ] \t	Horizontal Tab (TAB)
-        - [ ] \\	Backslash (\)
+        - [x] \\	Backslash (\)
     - [ ] Format Sybols
         - [ ] %c	character
         - [x] %s	string conversion via str() before formatting

@@ -6,5 +6,6 @@
 def afficheFamille(personne, age, nb_enfants):
     return '%s a %d ans et a %s enfants' % (personne, age, nb_enfants)
 
-print(afficheFamille('Jean Jacques',45,3))
-print(afficheFamille('Marie',32,5))
+
+print(afficheFamille('Jean Jacques', 45, 3))
+print(afficheFamille('Marie', 32, 5))
