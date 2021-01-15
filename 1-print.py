@@ -4,8 +4,10 @@ var_bol1 = True
 numb1 = 100000
 # le underscore permet de séparer les chiffres depuis Python 3 .
 numb2 = 20_0000
-numb2_bis = '{:_}'.format(numb1)
+monString = '{1:_x}{0:d}'
+numb2_bis = monString.format(numb1, 12892731)
 numb3 = numb1 + numb2
+s = 'jksdfhfjsadf'
 
 
 print(var_bol1)

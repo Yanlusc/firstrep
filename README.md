@@ -52,11 +52,12 @@
         - [ ] %X	hexadecimal integer (UPPER-case letters)
         - [ ] %e	exponential notation (with lowercase ‘e’)
         - [ ] %E	exponential notation (with UPPER-case ‘E’)
-        - [x] %f	floating-point real number
+        - [x] %f	floating-point real number         
         - [ ] %g	the shorter of %f and %e
         - [ ] %G	the shorter of %f and %E
 - [ ] Conditional operators
-    - [ ] Chained conditional
+    - [x] Chained conditional
+    - [ ] Bitwise operations(yan)
 - [ ] If/Else/Elif
 - [ ] Lists/Turples
 - [ ] For loops
