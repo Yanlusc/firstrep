@@ -58,11 +58,11 @@
 - [ ] Conditional operators
     - [x] Chained conditional
     - [ ] Bitwise operations(yan)
-- [ ] If/Else/Elif
-- [ ] Lists/Turples
-- [ ] For loops
-- [ ] While
-- [ ] break
+- [x] If/Else/Elif
+- [x] Lists/Turples
+- [x] For loops
+- [x] While
+- [x] break
 - [ ] continue
 - [ ] For Else
 - [ ] Slice operator

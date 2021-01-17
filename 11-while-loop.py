@@ -23,4 +23,3 @@ while True:
         if j > 4:
             print('time to quit')
             break
-
