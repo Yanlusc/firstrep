@@ -17,38 +17,38 @@ x = {'abc': 'pop', 'lol': [1, 2], 1: True, 'set': {
 
 
 # Acces variable
-print(x['set'])
-print(x[False])     # =print(x[0])
-print(x[True])      # =print(x[1])
-print(x['bol_cond'])
-print(x)
-print(x['power_opp'])
-print(x['power_opp'](2, 3))
+# print(x['set'])
+# print(x[False])     # =print(x[0])
+# print(x[True])      # =print(x[1])
+# print(x['bol_cond'])
+# print(x)
+# print(x['power_opp'])
+# print(x['power_opp'](2, 3))
 
-# Replace
-x['abc'] = 'popculture'
+# # Replace
+# x['abc'] = 'popculture'
 
-# Inner element modification
-x['lol'].append(888)
-x['lol'][1] = 'Yannick'
-print(x)
-x['lol'].pop(0)
+# # Inner element modification
+# x['lol'].append(888)
+# x['lol'][1] = 'Yannick'
+# print(x)
+# x['lol'].pop(0)
 
-# Add
-x['vitesse'] = '399km/h'
-print(x)
-x['vitesse'] = '400km/h'
+# # Add
+# x['vitesse'] = '399km/h'
+# print(x)
+# x['vitesse'] = '400km/h'
 
-# Delete
-print('Before deletion', x)
-del x['tup']
-print('After deletion', x)
+# # Delete
+# print('Before deletion', x)
+# del x['tup']
+# print('After deletion', x)
 
-# Lookup
-print('Lookup')
-print('salkdf;jsadl;fk' in x)       # does not telle if the value is present
-                                    # it tells you if the key is present
-print('salkdf;jsadl;fk' in x.values())
+# # Lookup
+# print('Lookup')
+# print('salkdf;jsadl;fk' in x)       # does not telle if the value is present
+#                                     # it tells you if the key is present
+# print('salkdf;jsadl;fk' in x.values())
 
 # useful shit
 values = x.values()
