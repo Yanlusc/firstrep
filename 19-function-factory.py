@@ -12,9 +12,9 @@ def to_the_power(number):
 raise_two = to_the_power(2)
 # Then I past another number to my fuction to set `power`value
 print(raise_two(1))
-print(raise_two(2))
-print(raise_two(3))
-print(raise_two(4))
+# print(raise_two(2))
+# print(raise_two(3))
+# print(raise_two(4))
 
 print('-'*29)
 

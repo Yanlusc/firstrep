@@ -13,6 +13,9 @@ def factorial(n):
     return inner_factorial(n)
 
 
+print(type(True))
+print(isinstance(True, int))
+print(factorial(True))
 print(factorial(3))
 print(factorial('fsd'))     # TypeError raised
 print(factorial(8))

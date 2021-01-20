@@ -26,4 +26,3 @@ print(separator, 'Exo 3', separator)
 alphabet_list = [chr(i) for i in range(ord('a'), ord('z')+1)]
 print(alphabet_list)
 print(separator*2)
-
