@@ -1,6 +1,6 @@
 
 # Basics to know
-- [x] data types
+- [x] data type
 - [x] output & printing
 - [x] variables
 - [ ] user inputs
