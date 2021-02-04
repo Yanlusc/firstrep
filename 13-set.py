@@ -17,6 +17,9 @@ s = {2, 3, 45, 'David', 53, 3}   # This is known as a set literal
 not_a_set = {}          # This does not create a set, it is an empty dictionary
 print(type(not_a_set))
 
+print(2 in s)          # vérifie si 2 est dans s
+
+
 # Add an element
 print('\nAdd an element\n')
 print('Before addition', s)

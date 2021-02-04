@@ -19,7 +19,7 @@ print(x[3])
 # Remove an element
 print('Before x.pop()', x)
 x.pop()         # remove the last element in the list
-x.pop(3)        # remove element at index 4
+x.pop(3)        # remove element at the 4 element
 x.remove('abc')
 # if `True` is in the list 3 times it only removes
 # it once and 2 `True` are left

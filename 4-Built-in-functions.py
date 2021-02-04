@@ -1,7 +1,7 @@
 a = 'bryan'
 print(a.capitalize())
 print('yannick'.capitalize())
-print('yannick'.capitalize()[1:7])
+print('yannick'[1:7].capitalize())
 
 print(a[0:4].upper())
 

@@ -33,7 +33,8 @@ def func_student(ma_liste):
         for i in ma_liste:
             print('-'*15, 'student with id:', i['id'], '-'*15)
             print('first name:', i['first_name'])
-            print(f"last name: {i['last_name']}")
+            print(type(i))
+            print(f"last name: {i.get('last_name')}")
 
     def average_course(param_cour):
         aver_p = 0

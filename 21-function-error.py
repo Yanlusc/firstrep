@@ -1,6 +1,6 @@
 
 def factorial(n):
-    # error handling
+    # error management
     if not isinstance(n, int):
         raise TypeError('Sorry, the number you past is not an Integer.')
     if not n >= 0:
